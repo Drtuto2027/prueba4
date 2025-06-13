@@ -4,7 +4,7 @@ num2 = int(input("Ingresa el segundo número entero: "))
 num3 = int(input("Ingresa el segundo número entero: "))
 # Realizar las operaciones básicas
 suma = num1 + num2 + num3
-resta = num1 - num2 -git num3
+resta = num1 - num2 - num3
 multiplicacion = num1 * num2 * num3
 division = num1 / num2 / num3
 
